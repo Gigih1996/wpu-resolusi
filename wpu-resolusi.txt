@@ -6,3 +6,6 @@ Ilmu Saat ini yang sudah saya pelajari dalam Pembuatan Web Development
 - JAVASCRIPT
 - JQUERY
 - PHP & MYSQL
+
+
+Saya Bercita-cita ingin menjadi seorang Web Develoment yang handal.
