@@ -1,0 +1,8 @@
+WPU RESOLUSI 
+Ilmu Saat ini yang sudah saya pelajari dalam Pembuatan Web Development
+
+- HTML & CSS
+- BOOTSTRAP
+- JAVASCRIPT
+- JQUERY
+- PHP & MYSQL
